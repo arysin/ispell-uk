@@ -54,7 +54,7 @@
 ким хто noun:m:v_oru:anim:&pron:int:rel
 кім хто noun:m:v_mis:anim:&pron:int:rel
 
-що що conj:subord
+що що conj:subord|part:coll
 що що noun:n:v_naz/v_zna:inanim:&pron:int:rel
 віщо що noun:n:v_zna:inanim:&pron:int:rel
 чого що noun:n:v_rod:inanim:&pron:int:rel
@@ -1180,7 +1180,7 @@
 без без prep:rv_rod
 біля біля prep:rv_rod
 в в prep:rv_zna:rv_mis:rv_rod:v-u
-у у prep:rv_zna:rv_mis:rv_rod:v-u
+у у prep:rv_zna:rv_mis:rv_rod:v-u|excl
 уві уві prep:rv_zna:rv_mis:rv_rod:v-u
 вві вві prep:rv_zna:rv_mis:rv_rod:v-u
 від від prep:rv_rod
